@@ -1,0 +1,24 @@
+{
+  "name": "pm2-server-runner",
+  "version": "1.0.0",
+  "description": "A template for running sevrers with node and pm2",
+  "main": "server-starter.js",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node server-starter.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dmratcliffe/pm2-server-runner.git"
+  },
+  "author": "dmratcliffe",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dmratcliffe/pm2-server-runner/issues"
+  },
+  "homepage": "https://github.com/dmratcliffe/pm2-server-runner#readme"
+}
