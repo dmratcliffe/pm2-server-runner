@@ -4,7 +4,7 @@
   "description": "A template for running sevrers with node and pm2",
   "main": "server-starter.js",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.3"
   },
   "devDependencies": {},
   "scripts": {
